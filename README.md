@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Meteorych, guy from Minsk. Right now i'm the student in Belarusian University of Informatics and Radiotechnology, my speciality is Artificial Intelligence.
+I'm Meteorych, guy from Minsk. Right now i'm the student of the Belarusian University of Informatics and Radioelectronics, my speciality is Artificial Intelligence.
 - 🌱 I’m currently learning JavaScript, Python and React
 - 📫 How to reach me: my Discord Meteorych#4892 or in Telegram.
 
