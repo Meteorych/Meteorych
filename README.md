@@ -12,5 +12,5 @@ I'm Meteorych (or Ivan Titlov in reality), guy from Minsk. Right now i'm the stu
 ## 📊 GitHub Stats:
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Meteorych&theme=dark&include_all_commits)<br/>
-[![Github Statistics](https://github-readme-stats.vercel.app/api?username=Meteorych&theme=dark)](https://github.com/meteorych/github-readme-stats)<br>
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meteorych&theme=dark&include_all_commits)](https://github.com/meteorych/github-readme-stats)
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=Meteorych)](https://github.com/Meteorych/github-readme-stats)<br>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meteorych)](https://github.com/Meteorych/github-readme-stats)
