@@ -2,7 +2,7 @@
 
 I'm Meteorych (or Ivan Titlov in reality), guy from Minsk. Right now i'm the student of the [Belarusian University of Informatics and Radioelectronics](https://www.bsuir.by/en/), my speciality is [Artificial Intelligence](https://www.bsuir.by/en/academic-department-of-intelligent-information-technologies).
 
-- 🌱 I’m currently learning С#, Python and SQL.
+- 🌱 I’m currently learning С#, ASP.NET and Neo4j.
 - 📫 How to reach me: my Discord Meteorych#4892 or in Telegram.
 
 ## 🌐 Socials:
